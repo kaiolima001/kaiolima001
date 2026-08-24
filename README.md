@@ -1,6 +1,12 @@
 # Kaio Lima
 
-Business Analyst | Data Analyst | Business Intelligence | Power BI | SQL | ETL | Python
+Business Analyst | Data Analyst | Business Intelligence
+
+https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge&logoColor=white
+
 
 📍 Recife, Pernambuco - Brasil
 
