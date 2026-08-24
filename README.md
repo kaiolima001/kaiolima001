@@ -15,14 +15,14 @@ Atualmente atuo na PwC Brasil desenvolvendo soluções de Data Analyst e Busines
 - ETL
 - Data Quality
 - Business Intelligence
-- Data Analytics
+- Data Analyst
 - Alteryx
 - Power Automate
 
 ## Experiência
 
 ### PwC Brasil
-Business Analyst | Data Analytics & Business Intelligence
+Business Analyst | Data Analyst & Business Intelligence
 
 - Desenvolvimento de dashboards em Power BI
 - Construção de indicadores estratégicos (KPIs)
