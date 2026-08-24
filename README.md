@@ -1,16 +1,52 @@
-## Hi there 👋
+# Kaio Lima
 
-<!--
-**kaiolima001/kaiolima001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analyst | Data Analyst | Business Intelligence | Power BI | SQL | ETL | Python
 
-Here are some ideas to get you started:
+📍 Recife, Pernambuco - Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Atualmente atuo na PwC Brasil desenvolvendo soluções de Data Analyst e Business Intelligence para suporte à tomada de decisão, automação de processos e construção de indicadores estratégicos.
+
+## Principais Competências
+
+- Power BI
+- SQL Server
+- DAX
+- Power Query
+- ETL
+- Data Quality
+- Business Intelligence
+- Data Analytics
+- Alteryx
+- Power Automate
+
+## Experiência
+
+### PwC Brasil
+Business Analyst | Data Analytics & Business Intelligence
+
+- Desenvolvimento de dashboards em Power BI
+- Construção de indicadores estratégicos (KPIs)
+- Automação de processos analíticos
+- ETL com SQL Server e Alteryx
+- Data Quality e validação de bases de dados
+
+## Projetos
+
+- Executive KPI Dashboard
+- Data Quality & Historical Validation Framework
+- Automated Data Collection and Reporting Pipeline
+- ETL Automation with Alteryx
+
+## Formação
+
+- MBA Business Intelligence & Analytics 360 – Xperiun
+- Engenharia Química – UNICAP
+
+## Contato
+
+📧 kaiolima001@gmail.com
+
+🔗 LinkedIn:
+https://linkedin.com/in/lima-kaio
+
 -->
