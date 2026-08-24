@@ -37,6 +37,20 @@ Business Analyst | Data Analyst & Business Intelligence
 - Automated Data Collection and Reporting Pipeline
 - ETL Automation with Alteryx
 
+## Portfolio
+
+### Business Intelligence
+- https://github.com/kaiolima001/PowerBI-Portfolio
+
+### SQL & Analytics
+- https://github.com/kaiolima001/SQL-Analytics-Queries
+
+### Data Quality
+- https://github.com/kaiolima001/Data-Quality-Framework
+
+### ETL & Automation
+- https://github.com/kaiolima001/Alteryx-ETL-Automation
+
 ## Formação
 
 - MBA Business Intelligence & Analytics 360 – Xperiun
