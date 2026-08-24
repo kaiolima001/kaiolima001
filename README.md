@@ -4,7 +4,7 @@ Business Analyst | Data Analyst | Business Intelligence | Power BI | SQL | ETL |
 
 📍 Recife, Pernambuco - Brasil
 
-Atualmente atuo na PwC Brasil desenvolvendo soluções de Data Analyst e Business Intelligence para suporte à tomada de decisão, automação de processos e construção de indicadores estratégicos.
+Atualmente atuo na PwC Brasil desenvolvendo soluções de Data Analytics e Business Intelligence para suporte à tomada de decisão, automação de processos e construção de indicadores estratégicos.
 
 ## Principais Competências
 
